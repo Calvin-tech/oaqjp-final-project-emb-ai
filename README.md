@@ -1,4 +1,5 @@
 #Final Projet
+
 Emotion Detection System (Local Transformer Edition)
 Project Description
 This is a comprehensive AI-based Web Application developed as part of the Software Engineering curriculum. Originally designed for Watson NLP, this version has been upgraded to use a Local Transformer Model (j-hartmann/emotion-english-distilroberta-base) via the Hugging Face library.
